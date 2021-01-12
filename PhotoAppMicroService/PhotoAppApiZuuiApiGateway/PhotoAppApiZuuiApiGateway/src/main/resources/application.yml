@@ -1,0 +1,7 @@
+zuul:
+  routes:
+    users-ws:
+      path: /users-ws/**
+      url: http://localhost:9095
+
+
